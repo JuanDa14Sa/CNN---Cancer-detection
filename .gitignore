@@ -200,5 +200,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-
+submission.csv
+tmp_model/
 data/
